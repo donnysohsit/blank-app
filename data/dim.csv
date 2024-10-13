@@ -1,0 +1,18 @@
+Hkey,RTUNumber,Equipment
+1,520,Dissolved Oxygen
+2,520,Conductivity
+3,520,Turbidity
+4,705,level
+5,705,RPM
+6,705,Temperature
+7,523,kWh
+8,523,HourRun
+9,523,Pressure
+10,11,Voltage
+11,11,pH
+12,701,IPUFlowrate
+13,701,Position
+14,702,Level
+15,702,Current
+16,703,Vibration
+17,703,Flowrate
